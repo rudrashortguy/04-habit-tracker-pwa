@@ -9,11 +9,11 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'masked-icon.svg'],
       manifest: {
-        name: 'HabitHero PWA',
-        short_name: 'HabitHero',
-        description: 'Gamified daily habit tracker with streaks, badges, and offline sync.',
+        name: 'StreakLoop',
+        short_name: 'StreakLoop',
+        description: 'Habit loops, daily check-ins, and streak visualization.',
         theme_color: '#4f46e5',
-        background_color: '#020617',
+        background_color: '#09090b',
         display: 'standalone',
         icons: [
           {
